@@ -7,3 +7,4 @@ THis is new modified, using git add, git commit and git push
 
 This is new modifed, using short command, git push
 
+This is new modified in github
